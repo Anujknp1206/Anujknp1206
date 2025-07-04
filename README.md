@@ -24,16 +24,17 @@
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 <td width="65%" valign="top">
 
 <div align="left">
 
-<table width="50%">
+<!-- Education Card -->
+<table width="100%" style="margin-bottom: 20px;">
 <tr>
-<td>
-<img src="https://img.shields.io/badge/🎓_Education_&_Background-667eea?style=for-the-badge&logoColor=white" width="100%"/>
+<td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; width:50%;">
+<img src="https://img.shields.io/badge/🎓_Education-667eea?style=for-the-badge&logoColor=white" width="200"/>
 <br><br>
 Currently pursuing <b>Master of Computer Applications (MCA)</b> at <b>PSIT Kanpur</b>, building upon my foundation with a <b>Bachelor's degree in Computer Applications (BCA)</b> from <b>UIET Kanpur (CSJM University)</b>.
 <br><br>
@@ -42,12 +43,11 @@ Passionate about transforming ideas into scalable digital solutions through clea
 </tr>
 </table>
 
-<br>
-
-<table width="100%">
+<!-- What I Do Card -->
+<table width="100%" style="margin-bottom: 20px;">
 <tr>
-<td>
-<img src="https://img.shields.io/badge/💻_What_I_Do-764ba2?style=for-the-badge&logoColor=white" width="100%"/>
+<td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px;">
+<img src="https://img.shields.io/badge/💻_What_I_Do-764ba2?style=for-the-badge&logoColor=white" width="200"/>
 <br><br>
 ▶ Build <b>full-stack web applications</b> using modern technologies<br>
 ▶ Develop <b>multi-tenant SaaS platforms</b> with Laravel + Stancl Tenancy<br>
@@ -58,36 +58,36 @@ Passionate about transforming ideas into scalable digital solutions through clea
 </tr>
 </table>
 
-<br>
-
+<!-- Current Focus Card -->
 <table width="100%">
 <tr>
-<td>
-<img src="https://img.shields.io/badge/🎯_Current_Focus-667eea?style=for-the-badge&logoColor=white" width="100%"/>
+<td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px;">
+<img src="https://img.shields.io/badge/🎯_Current_Focus-667eea?style=for-the-badge&logoColor=white" width="200"/>
 <br><br>
 Working on innovative projects in <b>hotel booking</b>, <b>event management</b>, <b>e-commerce</b>, and <b>pet adoption</b> domains.
 <br><br>
 Exploring advanced <b>Laravel Tenancy patterns</b> and <b>React optimization techniques</b> to build enterprise-grade applications.
 <br><br>
 
+<!-- Mini Stats -->
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/5+-667eea?style=for-the-badge&logoColor=white"/><br>
-<sub><b>Projects Built</b></sub>
+<img src="https://img.shields.io/badge/5+-667eea?style=for-the-badge&logoColor=white" width="60"/>
+<br><sub><b>Projects</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/3+-764ba2?style=for-the-badge&logoColor=white"/><br>
-<sub><b>Years Coding</b></sub>
+<img src="https://img.shields.io/badge/3+-764ba2?style=for-the-badge&logoColor=white" width="60"/>
+<br><sub><b>Years</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/10+-667eea?style=for-the-badge&logoColor=white"/><br>
-<sub><b>Technologies</b></sub>
+<img src="https://img.shields.io/badge/10+-667eea?style=for-the-badge&logoColor=white" width="60"/>
+<br><sub><b>Tech</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/24/7-764ba2?style=for-the-badge&logoColor=white"/><br>
-<sub><b>Learning Mode</b></sub>
+<img src="https://img.shields.io/badge/24/7-764ba2?style=for-the-badge&logoColor=white" width="60"/>
+<br><sub><b>Learning</b></sub>
 </td>
 </tr>
 </table>
@@ -102,7 +102,7 @@ Exploring advanced <b>Laravel Tenancy patterns</b> and <b>React optimization tec
 </td>
 <td width="35%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" style="border-radius: 12px;">
 
 </td>
 </tr>
@@ -273,33 +273,10 @@ Exploring advanced <b>Laravel Tenancy patterns</b> and <b>React optimization tec
 
 </div>
 
-<br><br>
+<br>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Analytics
-
-<br>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anujyadav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anujyadav&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=764ba2" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujyadav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=anujyadav&custom_title=Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area_color=764ba2&title_color=667eea&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br><br>
-
----
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
