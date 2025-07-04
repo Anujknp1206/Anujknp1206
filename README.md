@@ -2,10 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Anuj%20Yadav&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student%20%7C%20SaaS%20Builder&descAlignY=65&descAlign=50"/>
 </div>
 
-<br><br>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=667EEA&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+the+Future+with+Code;💡+Crafting+Digital+Solutions;🎯+Full+Stack+%7C+SaaS+%7C+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=667EEA&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Building+the+Future+with+Code;💡+Crafting+Digital+Solutions;🎯+Full+Stack+%7C+SaaS+%7C+Innovation" alt="Typing SVG" />
 </div>
 
 <br>
@@ -32,7 +30,7 @@
 
 <div align="left">
 
-<table width="100%">
+<table width="50%">
 <tr>
 <td>
 <img src="https://img.shields.io/badge/🎓_Education_&_Background-667eea?style=for-the-badge&logoColor=white" width="100%"/>
