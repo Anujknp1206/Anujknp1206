@@ -420,10 +420,10 @@ Exploring advanced <b>Laravel Tenancy patterns</b> and <b>React optimization tec
 
 <div align="center">
 
-<a href="mailto:anujyadav.dev@gmail.com">
+<a href="mailto:anujknp1206@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=667eea" alt="Gmail"/>
 </a>
-<a href="https://linkedin.com/in/anujyadav">
+<a href="https://linkedin.com/in/anuj-yadav-947044213">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=764ba2" alt="LinkedIn"/>
 </a>
 <a href="https://anujyadav.dev">
