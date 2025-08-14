@@ -426,7 +426,7 @@ Exploring advanced <b>Laravel Tenancy patterns</b> and <b>React optimization tec
 <a href="https://linkedin.com/in/anuj-yadav-947044213">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=764ba2" alt="LinkedIn"/>
 </a>
-<a href="https://anujyadav.dev">
+<a href="https://yadavji.in">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&color=667eea" alt="Portfolio"/>
 </a>
 
